@@ -9,15 +9,3 @@
  }
 export default App;
 
-// import Students from './Study/Students.jsx'
-
-// function App()
-// {
-//   return(   
-//     <>
-//         <Students isLogedin={false} username="Sugandhan"/>
-//     </>
-//   );
-// }
-
-// export default App;

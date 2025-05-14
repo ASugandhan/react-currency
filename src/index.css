@@ -10,7 +10,10 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: ("bg.png");
+  background-image: ("image.png");
+ background-repeat: no-repeat;       
+  background-size: cover;             
+  background-position: center; 
   background-color: black;
 }
 #root {
